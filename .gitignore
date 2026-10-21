@@ -1,0 +1,8 @@
+.env
+CLAUDE.md
+.claude/
+*.DS_Store
+
+# Air hot-reload work dir and stray local builds
+build/tmp/
+build/auth-miniapp
